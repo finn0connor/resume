@@ -1,2 +1,3 @@
-# resume
-My CV. Last updated 22/03/2026.
+
+## 📥 Download My CV
+[Download CV (PDF)](./finnoconnor_resume.pdf.pdf)
