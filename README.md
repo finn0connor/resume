@@ -1,3 +1,3 @@
 
 ## 📥 Download My CV
-[Download CV (PDF)](./finnoconnor_resume.pdf.pdf)
+[Download CV (PDF)](./finnoconnor_resume.pdf)
